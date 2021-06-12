@@ -1,8 +1,8 @@
-# calcio_binding_regions_visualazer-grupo2
-calcio_binding_regions_visualazer-grupo2 created by GitHub Classroom
+# Calcium Binding | Equipo 2
 
+Repo del TP final del equipo 2
 
-Integrantes:
+# Integrantes:
 Daniel Villegas
 Luciano Amoruso
 Nelson Gonzalez
